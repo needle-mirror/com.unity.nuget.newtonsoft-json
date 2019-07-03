@@ -1,13 +1,13 @@
 {
   "name": "com.unity.nuget.newtonsoft-json",
   "displayName": "Newtonsoft Json",
-  "version": "1.0.0-preview.2",
+  "version": "1.0.0-preview.3",
   "unity": "2018.3",
-  "description": "Unity package manager version of Newtonsoft Json for package developers. Currently synced to version version 12.0.1.22727",
+  "description": "Unity package manager version of Newtonsoft Json for package developers. Currently synced to version version 12.0.1.22727.\n\nThis is an internal Unity tool and is not supported.",
   "type": "library",
   "repository": {
     "type": "git",
     "url": "git@github.cds.internal.unity3d.com:unity/com.unity.nuget.newtonsoft-json.git",
-    "revision": "f93d03bbf7b1dba84179ece3fedd67f91cf3e7e6"
+    "revision": "74817990fa346e8fd5f9a9f27d312ed798faa7bf"
   }
 }
