@@ -4,6 +4,12 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-preview.4] - 2019-08-06
+
+### This is the fourth preview release of *Unity Package Nuget.Newtonsoft.Json*.
+
+Remove the unused asmdef file and make it such that the dll needs to be explicitly included.
+
 ## [1.0.0-preview.3] - 2019-07-03
 
 ### This is the third preview release of *Unity Package Nuget.Newtonsoft.Json*.
