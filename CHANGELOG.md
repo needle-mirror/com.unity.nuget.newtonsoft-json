@@ -4,6 +4,18 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.0.1-preview.1] - 2019-08-13
+
+### This is the first preview release of *Unity Package Nuget.Newtonsoft.Json* v1.0.1.
+
+Renamed the dll to match the assembly name. Users will need to update their assembly references.
+
+## [1.0.0] - 2019-08-08
+
+### This is the first release of *Unity Package Nuget.Newtonsoft.Json*.
+
+No notable changes from the previous preview release.
+
 ## [1.0.0-preview.4] - 2019-08-06
 
 ### This is the fourth preview release of *Unity Package Nuget.Newtonsoft.Json*.
