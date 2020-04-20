@@ -1,13 +1,16 @@
 {
   "name": "com.unity.nuget.newtonsoft-json",
   "displayName": "Newtonsoft Json",
-  "version": "2.0.0-preview",
+  "version": "2.0.0-preview.1",
   "unity": "2018.4",
   "description": "Newtonsoft Json for use in Unity projects and Unity packages. Currently synced to version 12.0.2.\n\nThis package is used for advanced json serialization and deserialization. Most Unity users will be better suited using the existing json tools built into Unity.\nTo avoid assembly clashes, please use this package if you intend to use Newtonsoft Json.",
   "type": "library",
+  "upmCi": {
+    "footprint": "785c6d75c07ba9c33e280911c0e5214cf308bc1a"
+  },
   "repository": {
     "type": "git",
-    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.nuget.newtonsoft-json.git",
-    "revision": "74ca86c283a2f63ba5b687451a0842ba924da907"
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git",
+    "revision": "ffb4589e14ba2ecd6f639cd7da67e614419a3123"
   }
 }
