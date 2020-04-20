@@ -4,9 +4,9 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [2.0.0-preview.2] - 2020-04-20
+## [2.0.0] - 2020-04-20
 
-### This is a preview release of *Unity Package Nuget.NewtonsoftJson* v2.0.0-preview.1.
+### This is the release of *Unity Package Nuget.NewtonsoftJson* v2.0.0.
 
 * Updated dll to AOT compatible version to allow for IL2CPP compilation platform targets
 * Added dll to Portable compatible version to allow for additional platform targets
