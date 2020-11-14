@@ -1,4 +1,4 @@
-# Netwonsoft Json Unity Package
+# Newtonsoft Json Unity Package
 
 ***This is a package intended for internal Unity Development Projects and as such this package is not supported. Use at your own risk.***
 
