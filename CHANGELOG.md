@@ -4,6 +4,21 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [3.0.1] - 2022-02-21
+
+* Updated license file
+
+## [3.0.0] - 2022-01-27
+
+* Updated Documentation
+
+## [3.0.0-preview.1] - 2022-01-25
+
+* Updated AOT and Editor DLLs to corresponds to Newtonsoft.Json version 13.0.1
+* Removed deprecated Portable DLL
+* Updated README
+* Updated Documentation
+
 ## [2.0.2] - 2020-10-04
 
 * Updated README
