@@ -1,6 +1,6 @@
 # Newtonsoft Json Unity Package
 
-This is a Unity package for Newtonsoft Json and corresponds to Newtonsoft.Json version 13.0.1.
+This is a Unity package for Newtonsoft Json and corresponds to Newtonsoft.Json version 13.0.2.
 
 Documentation for this Package is provided as links to the Json.NET Documentation.
 
