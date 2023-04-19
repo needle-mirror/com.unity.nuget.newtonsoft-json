@@ -8,9 +8,9 @@ Documentation for this Package is provided as links to the Json.NET Documentatio
 
 ### Documentation
 
-[Json.NET Main Page](https://www.newtonsoft.com/json)
-[Json.NET Documentation](https://www.newtonsoft.com/json/help/html/Introduction.htm)
-[Json.NET Source Code](https://github.com/JamesNK/Newtonsoft.Json)
+* [Json.NET Main Page](https://www.newtonsoft.com/json)
+* [Json.NET Documentation](https://www.newtonsoft.com/json/help/html/Introduction.htm)
+* [Json.NET Source Code](https://github.com/JamesNK/Newtonsoft.Json)
 
 ### Use Cases
 
