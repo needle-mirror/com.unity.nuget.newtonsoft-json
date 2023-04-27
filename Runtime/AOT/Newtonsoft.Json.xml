@@ -10007,31 +10007,6 @@
             <param name="currentObject">The current object.</param>
             <param name="errorContext">The error context.</param>
         </member>
-        <member name="T:Newtonsoft.Json.Serialization.ExpressionValueProvider">
-            <summary>
-            Get and set values for a <see cref="T:System.Reflection.MemberInfo"/> using dynamic methods.
-            </summary>
-        </member>
-        <member name="M:Newtonsoft.Json.Serialization.ExpressionValueProvider.#ctor(System.Reflection.MemberInfo)">
-            <summary>
-            Initializes a new instance of the <see cref="T:Newtonsoft.Json.Serialization.ExpressionValueProvider"/> class.
-            </summary>
-            <param name="memberInfo">The member info.</param>
-        </member>
-        <member name="M:Newtonsoft.Json.Serialization.ExpressionValueProvider.SetValue(System.Object,System.Object)">
-            <summary>
-            Sets the value.
-            </summary>
-            <param name="target">The target to set the value on.</param>
-            <param name="value">The value to set on the target.</param>
-        </member>
-        <member name="M:Newtonsoft.Json.Serialization.ExpressionValueProvider.GetValue(System.Object)">
-            <summary>
-            Gets the value.
-            </summary>
-            <param name="target">The target to get the value from.</param>
-            <returns>The value.</returns>
-        </member>
         <member name="T:Newtonsoft.Json.Serialization.IAttributeProvider">
             <summary>
             Provides methods to get attributes.
